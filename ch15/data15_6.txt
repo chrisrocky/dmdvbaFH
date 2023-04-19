@@ -1,0 +1,2 @@
+Taipei, 500
+Beijing, 300
